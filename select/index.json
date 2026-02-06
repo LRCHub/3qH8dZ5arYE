@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "だがそれでいい",
+  "base_artist": "Creepy Nuts",
+  "createdAt": "2026-02-06T04:47:47.390084Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "だがそれでいい",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/01_だがそれでいい_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "だがそれでいい",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/02_だがそれでいい_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "だがそれでいい",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/03_だがそれでいい_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "だがそれでいい (But That's Fine)",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/04_だがそれでいい_(But_That's_Fine)_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "【MV】Creepy Nuts - だがそれでいい",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/05_【MV】Creepy_Nuts_-_だがそれでいい_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "だがそれでいい",
+      "artist": "CreepyNuts",
+      "has_synced": false,
+      "path": "select/pl_01_だがそれでいい_CreepyNuts.txt"
+    }
+  ]
+}
